@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[banner]:https://github.com/codebuggg/codebuggg/blob/master/codebug_banner.jpg
+[website]: https://codebug.me
