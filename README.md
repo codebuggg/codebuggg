@@ -16,5 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Reach me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/wendy-quarshie-7407b0162/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+</p>
+
 [banner]:https://github.com/codebuggg/codebuggg/blob/master/codebug_banner.jpg
 [website]: https://codebug.me
