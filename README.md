@@ -1,20 +1,11 @@
 ### Hi there 👋
-[![bg][banner]][website]
 
-<!--
-**codebuggg/codebuggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on "chemp-pe"
+- 🌱 I’m currently learning React :(
+- 👯 I’m looking to collaborate on AI and ML Projects
+- 📫 How to reach me: email: quarshie.wendyvi@gmail.com
+- ⚡ Fun fact: I play fifa and I'm a PetrolHead
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Reach me
 
@@ -28,5 +19,5 @@ Here are some ideas to get you started:
    
 </p>
 
-[banner]:https://github.com/codebuggg/codebuggg/blob/master/codebug_banner.jpg
-[website]: https://codebug.me
+<!-- [banner]:https://github.com/codebuggg/codebuggg/blob/master/codebug_banner.jpg
+[website]: https://codebug.me -->
